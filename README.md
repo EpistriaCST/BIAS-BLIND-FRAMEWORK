@@ -1,7 +1,6 @@
 # BB-BPRF: Bias-Blind Behavioral Pattern Recognition Framework 
-\[!\[License: MIT\](https://img.shields.io/badge/License-MIT-blue.svg)\](LICENSE)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Population-of-one calibration for bias-free behavioral analysis.  
-Released under the MIT License · [ko-fi.com/epistria](https://ko-fi.com/epistria)
 
 ---
 
